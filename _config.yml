@@ -1,0 +1,28 @@
+name: DesignSafari
+favicon: null
+layout_spectrum: 0.12427430925890803
+typography_spectrum: 0.6235714801587164
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.923291455488652
+  lightness: 0.888460029149428
+  saturation: 0.1562844761647284
+  rhythmicContrast: 0.982176679186523
+purpose: []
